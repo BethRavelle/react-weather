@@ -7,9 +7,13 @@ import reportWebVitals from "./reportWebVitals";
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
   <React.StrictMode>
-    <div>
+    <div className="container">
       <h1>Weather App</h1>
       <App />
+      <p>
+        Created by Beth Ravelle and
+        <a href="https://github.com/BethRavelle/react-weather"> open sourced</a>
+      </p>
     </div>
   </React.StrictMode>
 );
