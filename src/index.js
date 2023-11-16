@@ -11,8 +11,8 @@ root.render(
       <h1>Weather App</h1>
       <App />
       <p>
-        Created by Beth Ravelle and
-        <a href="https://github.com/BethRavelle/react-weather"> open sourced</a>
+        Created by Beth Ravelle and open sourced on
+        <a href="https://github.com/BethRavelle/react-weather"> Github</a>
       </p>
     </div>
   </React.StrictMode>
